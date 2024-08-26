@@ -114,10 +114,6 @@ Tiek _server_, tiek _client_ komandinėse eilutėse įveskite šią komandą:
 
 ```
 npm start
-```
 
-### Bendradarbiavimas
-
-Kreiptis į _gintare.pavilaviciute@gmail.com_, jei reikalinga kokia nors informacija, pvz. peržiūrint ["pahostintą" versiją](https://kontrastu-virtuve.vercel.app/) ir norint gauti administratoriaus teises.
 
 _projectSetUp.md_ taip pat galima matyti mano užrašus bekuriant projekto bazinę dalį.
